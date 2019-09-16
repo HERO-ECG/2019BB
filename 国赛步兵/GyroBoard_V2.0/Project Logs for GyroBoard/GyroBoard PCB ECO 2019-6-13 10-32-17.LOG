@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=SPI_NSS Pin=U1-14
+Added Pin To Net: NetName=SPI_SCK Pin=U1-15
+Added Pin To Net: NetName=SPI_MISO Pin=U1-16
+Added Pin To Net: NetName=SPI_MOSI Pin=U1-17
+Added Member To Class: ClassName=GyroBoard Member=Component C1 47pF
+Added Member To Class: ClassName=GyroBoard Member=Component C2 47pF
+Added Member To Class: ClassName=GyroBoard Member=Component C3 104
+Added Member To Class: ClassName=GyroBoard Member=Component C4 105

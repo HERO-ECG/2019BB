@@ -1,0 +1,29 @@
+..\..\output\stm32f10x_it.o: ..\..\User\stm32f10x_it.c
+..\..\output\stm32f10x_it.o: ..\..\User\stm32f10x_it.h
+..\..\output\stm32f10x_it.o: ..\..\Libraries\CMSIS\stm32f10x.h
+..\..\output\stm32f10x_it.o: ..\..\Libraries\CMSIS\core_cm3.h
+..\..\output\stm32f10x_it.o: D:\Program Files (x86)\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\..\output\stm32f10x_it.o: ..\..\Libraries\CMSIS\system_stm32f10x.h
+..\..\output\stm32f10x_it.o: ..\..\User\stm32f10x_conf.h
+..\..\output\stm32f10x_it.o: ..\..\Libraries\FWlib\inc\stm32f10x_can.h
+..\..\output\stm32f10x_it.o: ..\..\Libraries\CMSIS\stm32f10x.h
+..\..\output\stm32f10x_it.o: ..\..\Libraries\FWlib\inc\stm32f10x_exti.h
+..\..\output\stm32f10x_it.o: ..\..\Libraries\FWlib\inc\stm32f10x_flash.h
+..\..\output\stm32f10x_it.o: ..\..\Libraries\FWlib\inc\stm32f10x_gpio.h
+..\..\output\stm32f10x_it.o: ..\..\Libraries\FWlib\inc\stm32f10x_i2c.h
+..\..\output\stm32f10x_it.o: ..\..\Libraries\FWlib\inc\stm32f10x_rcc.h
+..\..\output\stm32f10x_it.o: ..\..\Libraries\FWlib\inc\stm32f10x_spi.h
+..\..\output\stm32f10x_it.o: ..\..\Libraries\FWlib\inc\stm32f10x_tim.h
+..\..\output\stm32f10x_it.o: ..\..\Libraries\FWlib\inc\stm32f10x_usart.h
+..\..\output\stm32f10x_it.o: ..\..\Libraries\FWlib\inc\misc.h
+..\..\output\stm32f10x_it.o: ..\..\User\usart\usart.h
+..\..\output\stm32f10x_it.o: D:\Program Files (x86)\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\..\output\stm32f10x_it.o: ..\..\User\TimBase\timbase.h
+..\..\output\stm32f10x_it.o: ..\..\User\led_test\led_test.h
+..\..\output\stm32f10x_it.o: ..\..\User\CAN\can.h
+..\..\output\stm32f10x_it.o: ..\..\User\MPU65xx\MPU65xx.h
+..\..\output\stm32f10x_it.o: ..\..\User\delay\delay.h
+..\..\output\stm32f10x_it.o: ..\..\User\MPU6500\MPU6500_spi.h
+..\..\output\stm32f10x_it.o: ..\..\User\SPI\spi.h
+..\..\output\stm32f10x_it.o: ..\..\User\PID\PID.h
+..\..\output\stm32f10x_it.o: ..\..\User\heat_ctrl\heat_ctrl.h

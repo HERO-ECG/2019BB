@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=CAN_H Pin=CN?-1
+Removed Pin From Net: NetName=CAN_L Pin=CN?-2
+Added Pin To Net: NetName=CAN_L Pin=CN?-1
+Added Pin To Net: NetName=CAN_H Pin=CN?-2
+Added Member To Class: ClassName=GyroBoard Member=Component CN? A1257WV-S-4P

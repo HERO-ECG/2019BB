@@ -1,0 +1,12 @@
+Change Component Comment : Designator=C15 Old Comment=103 New Comment=104
+Added Component: Designator=CN4(HDR1X2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "MOLEX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "53261-0871"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C240848"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "C"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC_5V_INPUT Pin=CN4-1
+Added Pin To Net: NetName=GND Pin=CN4-2
+Added Member To Class: ClassName=GyroBoard Member=Component CN4 POWER

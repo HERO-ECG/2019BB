@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=VCC_5V_INPUT Pin=CN2-1
+Removed Pin From Net: NetName=GND Pin=CN2-2
+Removed Pin From Net: NetName=CAN_H Pin=CN2-3
+Removed Pin From Net: NetName=CAN_L Pin=CN2-4
+Added Pin To Net: NetName=CAN_L Pin=CN2-1
+Added Pin To Net: NetName=CAN_H Pin=CN2-2
+Added Pin To Net: NetName=GND Pin=CN2-3
+Added Pin To Net: NetName=VCC_5V_INPUT Pin=CN2-4

@@ -1,0 +1,24 @@
+..\..\output\heat_ctrl.o: ..\..\User\heat_ctrl\heat_ctrl.c
+..\..\output\heat_ctrl.o: ..\..\User\heat_ctrl\heat_ctrl.h
+..\..\output\heat_ctrl.o: ..\..\Libraries\CMSIS\stm32f10x.h
+..\..\output\heat_ctrl.o: ..\..\Libraries\CMSIS\core_cm3.h
+..\..\output\heat_ctrl.o: D:\Program Files (x86)\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\..\output\heat_ctrl.o: ..\..\Libraries\CMSIS\system_stm32f10x.h
+..\..\output\heat_ctrl.o: ..\..\User\stm32f10x_conf.h
+..\..\output\heat_ctrl.o: ..\..\Libraries\FWlib\inc\stm32f10x_can.h
+..\..\output\heat_ctrl.o: ..\..\Libraries\CMSIS\stm32f10x.h
+..\..\output\heat_ctrl.o: ..\..\Libraries\FWlib\inc\stm32f10x_exti.h
+..\..\output\heat_ctrl.o: ..\..\Libraries\FWlib\inc\stm32f10x_flash.h
+..\..\output\heat_ctrl.o: ..\..\Libraries\FWlib\inc\stm32f10x_gpio.h
+..\..\output\heat_ctrl.o: ..\..\Libraries\FWlib\inc\stm32f10x_i2c.h
+..\..\output\heat_ctrl.o: ..\..\Libraries\FWlib\inc\stm32f10x_rcc.h
+..\..\output\heat_ctrl.o: ..\..\Libraries\FWlib\inc\stm32f10x_spi.h
+..\..\output\heat_ctrl.o: ..\..\Libraries\FWlib\inc\stm32f10x_tim.h
+..\..\output\heat_ctrl.o: ..\..\Libraries\FWlib\inc\stm32f10x_usart.h
+..\..\output\heat_ctrl.o: ..\..\Libraries\FWlib\inc\misc.h
+..\..\output\heat_ctrl.o: ..\..\User\PID\PID.h
+..\..\output\heat_ctrl.o: ..\..\User\MPU65xx\MPU65xx.h
+..\..\output\heat_ctrl.o: ..\..\User\stm32f10x_it.h
+..\..\output\heat_ctrl.o: ..\..\User\delay\delay.h
+..\..\output\heat_ctrl.o: ..\..\User\MPU6500\MPU6500_spi.h
+..\..\output\heat_ctrl.o: ..\..\User\SPI\spi.h

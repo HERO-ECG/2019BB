@@ -1,0 +1,41 @@
+Board Information Report
+Filename     : E:\¹¤³Ì\Altium Designer\GyroBoard_V2.0\GyroBoard.PcbDoc
+Date         : 2019/7/2
+Time         : 20:14:44
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 117
+    Connections routed, 117
+    Connections remaining, 0
+count : 4
+
+Non-Plated Hole Size, Pads, Vias
+count : 0
+
+Plated Hole Size, Pads, Vias
+    0mils, 204, 0
+    11.811mils, 0, 55
+    12mils, 0, 6
+    86.614mils, 0, 4
+count : 4
+
+Track Width, Count
+    4mils, 264
+    5mils, 295
+    5.91mils, 6
+    7mils, 16
+    7.874mils, 6
+    8mils, 9
+    10mils, 122
+    15mils, 55
+count : 8
+
+Net Track Width, Count
+    5mils, 30
+count : 1
+
+Net Via Size, Count
+    23.622mils, 30
+count : 1

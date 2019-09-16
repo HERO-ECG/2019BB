@@ -1,0 +1,25 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~GyroBoard.PrjPcb|ReportField=ProjectFullPath~E:\工程\Altium Designer\GyroBoard\GyroBoard.PrjPcb|ReportField=Title~Bill of Materials For Project [GyroBoard.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~35|ReportField=ReportTime~11:07:19|ReportField=ReportDate~2019/6/13|ReportField=ReportDateTime~2019/6/13 11:07:19|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2019/6/13|ReportField=CurrentTime~11:06:36|ReportField=Date~|ReportField=DocumentFullPathAndName~E:\工程\Altium Designer\GyroBoard\GyroBoard.SchDoc|ReportField=DocumentName~GyroBoard.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2019/6/13|ReportField=Organization~|ReportField=ProjectName~GyroBoard.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~GyroBoard.PrjPcb|ReportField=DataSourceFullPath~E:\工程\Altium Designer\GyroBoard\GyroBoard.PrjPcb|ReportField=PCBConfigurationName~Sources|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|47pF|Capacitor|C1, C2|0402|Cap|2
+2|104|Capacitor|C3, C4, C6, C10, C11, C12, C13, C15|0402|Cap|8
+3|Cap Pol3|Polarized Capacitor (Surface Mount)|C5|CAP-CASE-A_3216|Cap Pol3|1
+4|20pF|Capacitor|C7, C8|0402|Cap|2
+5|4.7uF|Capacitor|C9|0402|Cap|1
+6|103|Capacitor|C14|0402|Cap|1
+7|105|Capacitor|C16|0402|Cap|1
+8|53261-0471||CN1|532610471|53261-0471|1
+9|A1257WR-S-4P||CN2|A1257WR-S-4P|A1257WV-S-4P|1
+10|A1257WV-S-2P||CN3|A1257WV-S-2P|A1257WV-S-2P|1
+11|LED0|Typical INFRARED GaAs LED|D1|LED-0603|LED0|1
+12|SM712_C293966||D2|SOT-23-3|SM712_C293966|1
+13|Inductor|Inductor|L1, L2|0402|Inductor|2
+14|100R|Resistor|R1, R2|0402|Res2|2
+15|10K|Resistor|R3|0402|Res2|1
+16|200R|Resistor|R4|0402|Res2|1
+17|4.7K|Resistor|R5|0402|Res2|1
+18|120R|Resistor|R6|0402|Res2|1
+19|TAEF-25SA-Q-T/R|TAEF-25SA-Q-T/R|S1|TAEF-25SA-Q-T/R|SW-PB|1
+20|STM32F103C6T7A||U1|QFP-48_LSA9.2-LSB9.2-H1.6-PITCH0.5-TL|STM32F103C6T7A|1
+21|MPU6500||U2|QFN24-EP|MPU6500_1|1
+22|LP5907SNX-3.3/NOPB||U3|X2SON-4|LP5907SNX-3.3/NOPB|1
+23|MCP2562T-E/MF||U4|DFN-8_EP_3X3MM|MCP2562T-E/MF|1
+24|8MHz||X1|SMD-5032_4P|8MHz|1

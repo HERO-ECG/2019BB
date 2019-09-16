@@ -1,0 +1,11 @@
+Added Component: Designator=CN?(A1257WV-S-2P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "MOLEX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "53261-0871"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C240848"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "C"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CAN_H Pin=CN?-1
+Added Pin To Net: NetName=CAN_L Pin=CN?-2
+Added Member To Class: ClassName=GyroBoard Member=Component CN? A1257WV-S-4P

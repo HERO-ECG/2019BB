@@ -1,0 +1,19 @@
+Change Component Designator: OldDesignator=CN? NewDesignator=CN2
+Change Component Designator: OldDesignator=CN? NewDesignator=CN3
+Added Component: Designator=D?(SOT-23-3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "DOWO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "SM712"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C293966"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CAN_H Pin=CN2-4
+Added Pin To Net: NetName=CAN_H Pin=CN3-1
+Added Pin To Net: NetName=CAN_H Pin=D?-1
+Added Pin To Net: NetName=CAN_H Pin=D?-2
+Added Pin To Net: NetName=GND Pin=D?-3
+Added Pin To Net: NetName=CAN_H Pin=R6-1
+Added Pin To Net: NetName=CAN_H Pin=U4-6
+Added Member To Class: ClassName=GyroBoard Member=Component CN3 A1257WV-S-2P
+Added Member To Class: ClassName=GyroBoard Member=Component D? SM712_C293966

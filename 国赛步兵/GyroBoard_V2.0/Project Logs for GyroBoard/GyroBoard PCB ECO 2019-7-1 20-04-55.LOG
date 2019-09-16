@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=IIC_CLK Pin=U1-29
+Added Pin To Net: NetName=IIC_SDA Pin=U1-30
+Added Member To Class: ClassName=GyroBoard Member=Component C3 104
+Added Member To Class: ClassName=GyroBoard Member=Component C4 47pF
+Added Member To Class: ClassName=GyroBoard Member=Component C11 104
+Added Member To Class: ClassName=GyroBoard Member=Component C15 20pF
+Added Member To Class: ClassName=GyroBoard Member=Component U3 MPU6500
+Added Member To Class: ClassName=GyroBoard Member=Component U4 LP5907MFX-3.3/NOPB
